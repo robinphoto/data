@@ -1,0 +1,143 @@
+{
+  "departments": [
+    {
+      "id": "infant",
+      "name": "영아부",
+      "order": 1
+    },
+    {
+      "id": "toddler",
+      "name": "유아부",
+      "order": 2
+    },
+    {
+      "id": "kindergarten",
+      "name": "유치부",
+      "order": 3
+    },
+    {
+      "id": "lower-elementary",
+      "name": "유년부",
+      "order": 4
+    },
+    {
+      "id": "elementary",
+      "name": "초등부",
+      "order": 5
+    },
+    {
+      "id": "juniors",
+      "name": "소년부",
+      "order": 6
+    },
+    {
+      "id": "middle",
+      "name": "중등부",
+      "order": 7
+    },
+    {
+      "id": "high",
+      "name": "고등부",
+      "order": 8
+    },
+    {
+      "id": "young-adult",
+      "name": "청년",
+      "order": 9
+    },
+    {
+      "id": "church-school",
+      "name": "교회학교",
+      "order": 10
+    },
+    {
+      "id": "district",
+      "name": "교구",
+      "order": 11
+    },
+    {
+      "id": "ordained-deacons",
+      "name": "안수집사회",
+      "order": 12
+    }
+  ],
+  "events": [
+    {
+      "id": "summer-bible-school",
+      "name": "여름성경학교",
+      "order": 1
+    },
+    {
+      "id": "camp-retreat",
+      "name": "캠프·수련회",
+      "order": 2
+    },
+    {
+      "id": "christmas-eve",
+      "name": "성탄 전야제",
+      "order": 3
+    },
+    {
+      "id": "alpha",
+      "name": "알파",
+      "order": 4
+    },
+    {
+      "id": "thursday-night-prayer",
+      "name": "목요철야",
+      "order": 5
+    },
+    {
+      "id": "market",
+      "name": "일일장터",
+      "order": 6
+    },
+    {
+      "id": "ministry-festival",
+      "name": "사역축제",
+      "order": 7
+    },
+    {
+      "id": "concert",
+      "name": "음악회",
+      "order": 8
+    },
+    {
+      "id": "seminar",
+      "name": "세미나",
+      "order": 9
+    },
+    {
+      "id": "history-pilgrimage",
+      "name": "역사순례",
+      "order": 10
+    },
+    {
+      "id": "other-event",
+      "name": "기타 행사",
+      "order": 11
+    },
+    {
+      "id": "other-worship",
+      "name": "기타 예배",
+      "order": 12
+    },
+    {
+      "id": "external-event",
+      "name": "외부행사",
+      "order": 13
+    }
+  ],
+  "places": [
+    {
+      "id": "second-temple",
+      "name": "제2성전",
+      "order": 1
+    },
+    {
+      "id": "external",
+      "name": "외부",
+      "order": 2
+    }
+  ]
+}
