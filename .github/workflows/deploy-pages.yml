@@ -26,7 +26,7 @@ jobs:
       - name: Prepare site
         run: |
           mkdir _site
-          cp albums.json church-categories.json church-index.json _site/
+          cp albums.json church-categories.json church-index.json juniors-categories.json juniors-index.json _site/
           cp -R covers icons profile _site/
       - name: Configure Pages
         uses: actions/configure-pages@v5
