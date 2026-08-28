@@ -6,29 +6,24 @@
       "order": 1
     },
     {
-      "id": "joint-worship",
-      "name": "연합예배",
-      "order": 2
-    },
-    {
       "id": "choir",
       "name": "성가대",
-      "order": 3
+      "order": 2
     },
     {
       "id": "thursday-night-prayer",
       "name": "목요철야",
-      "order": 4
+      "order": 3
     },
     {
       "id": "history-pilgrimage",
       "name": "역사순례",
-      "order": 5
+      "order": 4
     },
     {
       "id": "other",
       "name": "기타",
-      "order": 6
+      "order": 5
     }
   ]
 }
