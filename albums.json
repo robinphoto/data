@@ -1,5 +1,21 @@
 [
   {
+    "id": "20260830-01",
+    "title": "20260830 소년부 예배",
+    "date": "2026.08.30",
+    "startDate": "2026-08-30",
+    "cover": "covers/2026/20260830-01.jpg",
+    "googlePhotosUrl": "https://photos.google.com/share/AF1QipPNvcDL8vcs9XUaaVaRkoFFaBA8GaJu-2q6_WGtpdxN9ALbP2nAJz5EqVH_g8lBfg?key=SUd1Tm9jRjlTSlhEcGl1SWNSVDhicXpGRFJHZ1RR",
+    "photoCount": 98,
+    "sites": [
+      "albums",
+      "archive",
+      "church",
+      "juniors"
+    ],
+    "place": null
+  },
+  {
     "id": "20260823-01",
     "title": "20260823 소년부 예배",
     "date": "2026.08.23",
