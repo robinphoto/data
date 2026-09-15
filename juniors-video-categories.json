@@ -1,28 +1,28 @@
 {
   "events": [
     {
-      "id": "worship",
-      "name": "예배",
-      "order": 1
-    },
-    {
       "id": "choir",
       "name": "성가대",
-      "order": 2
+      "order": 1
     },
     {
       "id": "thursday-night-prayer",
       "name": "특송",
-      "order": 3
+      "order": 2
     },
     {
       "id": "history-pilgrimage",
       "name": "역사순례",
+      "order": 3
+    },
+    {
+      "id": "entrance-video",
+      "name": "입장 영상",
       "order": 4
     },
     {
-      "id": "other",
-      "name": "기타",
+      "id": "chant",
+      "name": "챈트",
       "order": 5
     }
   ]

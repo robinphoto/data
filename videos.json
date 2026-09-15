@@ -1,0 +1,562 @@
+[
+  {
+    "id": "youtube-HF6PyZbi5Nw",
+    "type": "video",
+    "title": "한국선교 역사순례1 (덕수궁, 양화진)",
+    "sourceTitle": "한국선교 역사순례1 (덕수궁, 양화진) - 검단중앙교회 소년부",
+    "date": "2024.03.16",
+    "startDate": "2024-03-16",
+    "publishedDate": "2026-01-10",
+    "cover": "videos/2024/HF6PyZbi5Nw.jpg",
+    "youtubeVideoId": "HF6PyZbi5Nw",
+    "youtubeUrl": "https://www.youtube.com/watch?v=HF6PyZbi5Nw",
+    "durationSeconds": 284,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-4WbICsjMiyc",
+    "type": "video",
+    "title": "한국선교 역사순례2 (성령의 땅 강화)",
+    "sourceTitle": "한국선교 역사순례2 (성령의 땅 강화) - 검단중앙교회 소년부",
+    "date": "2024.11.23",
+    "startDate": "2024-11-23",
+    "publishedDate": "2026-01-10",
+    "cover": "videos/2024/4WbICsjMiyc.jpg",
+    "youtubeVideoId": "4WbICsjMiyc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4WbICsjMiyc",
+    "durationSeconds": 317,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-fl_FSE1jLTs",
+    "type": "video",
+    "title": "한국선교 역사순례3 (충청남도 공주)",
+    "sourceTitle": "한국선교 역사순례3 (충청남도 공주) - 검단중앙교회 소년부",
+    "date": "2025.03.08",
+    "startDate": "2025-03-08",
+    "publishedDate": "2026-01-10",
+    "cover": "videos/2025/fl_FSE1jLTs.jpg",
+    "youtubeVideoId": "fl_FSE1jLTs",
+    "youtubeUrl": "https://www.youtube.com/watch?v=fl_FSE1jLTs",
+    "durationSeconds": 344,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-rRtQZspxSao",
+    "type": "video",
+    "title": "한국선교 역사순례4 (인천 지역)",
+    "sourceTitle": "한국선교 역사순례4 (인천 지역) - 검단중앙교회 소년부",
+    "date": "2026.03.14",
+    "startDate": "2026-03-14",
+    "publishedDate": "2026-06-13",
+    "cover": "videos/2026/rRtQZspxSao.jpg",
+    "youtubeVideoId": "rRtQZspxSao",
+    "youtubeUrl": "https://www.youtube.com/watch?v=rRtQZspxSao",
+    "durationSeconds": 241,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-kLS54jK5f7A",
+    "type": "video",
+    "title": "예수께로 가면",
+    "sourceTitle": "예수께로 가면 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.02.08",
+    "startDate": "2026-02-08",
+    "publishedDate": "2026-02-09",
+    "cover": "videos/2026/kLS54jK5f7A.jpg",
+    "youtubeVideoId": "kLS54jK5f7A",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kLS54jK5f7A",
+    "durationSeconds": 139,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-Mm7WB9kQ4xQ",
+    "type": "video",
+    "title": "하나님의 능력 알고 있니?",
+    "sourceTitle": "하나님의 능력 알고 있니? - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.02.22",
+    "startDate": "2026-02-22",
+    "publishedDate": "2026-02-22",
+    "cover": "videos/2026/Mm7WB9kQ4xQ.jpg",
+    "youtubeVideoId": "Mm7WB9kQ4xQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Mm7WB9kQ4xQ",
+    "durationSeconds": 152,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-7SzwcWN51us",
+    "type": "video",
+    "title": "함께 소리 높여 불러요",
+    "sourceTitle": "함께 소리 높여 불러요 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.03.01",
+    "startDate": "2026-03-01",
+    "publishedDate": "2026-03-01",
+    "cover": "videos/2026/7SzwcWN51us.jpg",
+    "youtubeVideoId": "7SzwcWN51us",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7SzwcWN51us",
+    "durationSeconds": 255,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-OHOgLR569dY",
+    "type": "video",
+    "title": "하나님 지켜주세요",
+    "sourceTitle": "하나님 지켜주세요 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.03.08",
+    "startDate": "2026-03-08",
+    "publishedDate": "2026-03-08",
+    "cover": "videos/2026/OHOgLR569dY.jpg",
+    "youtubeVideoId": "OHOgLR569dY",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OHOgLR569dY",
+    "durationSeconds": 122,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-O_PcZ9i67SM",
+    "type": "video",
+    "title": "함께 지어져 가네",
+    "sourceTitle": "함께 지어져 가네 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.03.15",
+    "startDate": "2026-03-15",
+    "publishedDate": "2026-03-15",
+    "cover": "videos/2026/O_PcZ9i67SM.jpg",
+    "youtubeVideoId": "O_PcZ9i67SM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=O_PcZ9i67SM",
+    "durationSeconds": 248,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-nlx5WF_qals",
+    "type": "video",
+    "title": "나는야 주의 어린이",
+    "sourceTitle": "나는야 주의 어린이 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.03.22",
+    "startDate": "2026-03-22",
+    "publishedDate": "2026-03-22",
+    "cover": "videos/2026/nlx5WF_qals.jpg",
+    "youtubeVideoId": "nlx5WF_qals",
+    "youtubeUrl": "https://www.youtube.com/watch?v=nlx5WF_qals",
+    "durationSeconds": 121,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-v2J4uldumng",
+    "type": "video",
+    "title": "교회",
+    "sourceTitle": "교회 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.04.12",
+    "startDate": "2026-04-12",
+    "publishedDate": "2026-04-12",
+    "cover": "videos/2026/v2J4uldumng.jpg",
+    "youtubeVideoId": "v2J4uldumng",
+    "youtubeUrl": "https://www.youtube.com/watch?v=v2J4uldumng",
+    "durationSeconds": 214,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-JKkcY-36psU",
+    "type": "video",
+    "title": "하나님 찬양해요",
+    "sourceTitle": "하나님 찬양해요 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.05.03",
+    "startDate": "2026-05-03",
+    "publishedDate": "2026-05-03",
+    "cover": "videos/2026/JKkcY-36psU.jpg",
+    "youtubeVideoId": "JKkcY-36psU",
+    "youtubeUrl": "https://www.youtube.com/watch?v=JKkcY-36psU",
+    "durationSeconds": 141,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-LTXnJTkzxEg",
+    "type": "video",
+    "title": "우리 가정",
+    "sourceTitle": "우리 가정 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.05.31",
+    "startDate": "2026-05-31",
+    "publishedDate": "2026-06-01",
+    "cover": "videos/2026/LTXnJTkzxEg.jpg",
+    "youtubeVideoId": "LTXnJTkzxEg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LTXnJTkzxEg",
+    "durationSeconds": 152,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-TpeFFndiYpw",
+    "type": "video",
+    "title": "세상 모든 어린이는 사랑받아야 하죠",
+    "sourceTitle": "세상 모든 어린이는 사랑받아야 하죠 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.06.07",
+    "startDate": "2026-06-07",
+    "publishedDate": "2026-06-07",
+    "cover": "videos/2026/TpeFFndiYpw.jpg",
+    "youtubeVideoId": "TpeFFndiYpw",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TpeFFndiYpw",
+    "durationSeconds": 200,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-EixCw7Zcy8g",
+    "type": "video",
+    "title": "하나님이 너를 엄청 사랑하신대",
+    "sourceTitle": "하나님이 너를 엄청 사랑하신대 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.06.14",
+    "startDate": "2026-06-14",
+    "publishedDate": "2026-06-14",
+    "cover": "videos/2026/EixCw7Zcy8g.jpg",
+    "youtubeVideoId": "EixCw7Zcy8g",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EixCw7Zcy8g",
+    "durationSeconds": 225,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube--w88y6ces60",
+    "type": "video",
+    "title": "주께서 바라보시는 사람",
+    "sourceTitle": "주께서 바라보시는 사람 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.08.16",
+    "startDate": "2026-08-16",
+    "publishedDate": "2026-08-16",
+    "cover": "videos/2026/-w88y6ces60.jpg",
+    "youtubeVideoId": "-w88y6ces60",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-w88y6ces60",
+    "durationSeconds": 196,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-4dAyfJ3yLVE",
+    "type": "video",
+    "title": "샤론의 꽃 예수",
+    "sourceTitle": "샤론의 꽃 예수 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.08.30",
+    "startDate": "2026-08-30",
+    "publishedDate": "2026-08-31",
+    "cover": "videos/2026/4dAyfJ3yLVE.jpg",
+    "youtubeVideoId": "4dAyfJ3yLVE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=4dAyfJ3yLVE",
+    "durationSeconds": 204,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-Xf5rvJTaA-Q",
+    "type": "video",
+    "title": "주님 계신 교회",
+    "sourceTitle": "주님 계신 교회 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.09.06",
+    "startDate": "2026-09-06",
+    "publishedDate": "2026-09-06",
+    "cover": "videos/2026/Xf5rvJTaA-Q.jpg",
+    "youtubeVideoId": "Xf5rvJTaA-Q",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Xf5rvJTaA-Q",
+    "durationSeconds": 181,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-PcushOzn6MA",
+    "type": "video",
+    "title": "소중해 존귀해 보배로워 + 체인지 업",
+    "sourceTitle": "소중해 존귀해 보배로워 + 체인지 업 - 검단중앙교회 목요철야 주일학교 특송 (2026년 7월 23일)",
+    "date": "2026.07.23",
+    "startDate": "2026-07-23",
+    "publishedDate": "2026-07-27",
+    "cover": "videos/2026/PcushOzn6MA.jpg",
+    "youtubeVideoId": "PcushOzn6MA",
+    "youtubeUrl": "https://www.youtube.com/watch?v=PcushOzn6MA",
+    "durationSeconds": 259,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-V8-O3pI5aSc",
+    "type": "video",
+    "title": "하나님의 사랑이 + 진짜 크리스찬",
+    "sourceTitle": "하나님의 사랑이 + 진짜 크리스찬 - 검단중앙교회 목요철야 소년부 특송 (2026년 5월 21일)",
+    "date": "2026.05.21",
+    "startDate": "2026-05-21",
+    "publishedDate": "2026-05-22",
+    "cover": "videos/2026/V8-O3pI5aSc.jpg",
+    "youtubeVideoId": "V8-O3pI5aSc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=V8-O3pI5aSc",
+    "durationSeconds": 251,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube--SnfVJU8IcE",
+    "type": "video",
+    "title": "함께 지어져 가네 + 우리가 주를 더욱 사랑하고",
+    "sourceTitle": "함께 지어져 가네 + 우리가 주를 더욱 사랑하고 - 검단중앙교회 목요철야 교회학교 특송 (2026년 3월 12일)",
+    "date": "2026.03.12",
+    "startDate": "2026-03-12",
+    "publishedDate": "2026-03-13",
+    "cover": "videos/2026/-SnfVJU8IcE.jpg",
+    "youtubeVideoId": "-SnfVJU8IcE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-SnfVJU8IcE",
+    "durationSeconds": 617,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-TpWZQpqoVx0",
+    "type": "video",
+    "title": "Blessing + 날아올라",
+    "sourceTitle": "Blessing + 날아올라 - 검단중앙교회 목요철야 소년부 특송 (2026년 2월 26일)",
+    "date": "2026.02.26",
+    "startDate": "2026-02-26",
+    "publishedDate": "2026-02-27",
+    "cover": "videos/2026/TpWZQpqoVx0.jpg",
+    "youtubeVideoId": "TpWZQpqoVx0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TpWZQpqoVx0",
+    "durationSeconds": 438,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube--mEU6C45WrQ",
+    "type": "video",
+    "title": "온 땅이여 주님을 찬양하라",
+    "sourceTitle": "온 땅이여 주님을 찬양하라 - 검단중앙교회 목요철야 소년부 특송 (2026년 1월 1일)",
+    "date": "2026.01.01",
+    "startDate": "2026-01-01",
+    "publishedDate": "2026-01-11",
+    "cover": "videos/2026/-mEU6C45WrQ.jpg",
+    "youtubeVideoId": "-mEU6C45WrQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-mEU6C45WrQ",
+    "durationSeconds": 320,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-3UjPlFTMQFA",
+    "type": "video",
+    "title": "색깔예배",
+    "sourceTitle": "색깔예배 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.09.13",
+    "startDate": "2026-09-13",
+    "publishedDate": "2026-09-15",
+    "cover": "videos/2026/3UjPlFTMQFA.jpg",
+    "youtubeVideoId": "3UjPlFTMQFA",
+    "youtubeUrl": "https://www.youtube.com/watch?v=3UjPlFTMQFA",
+    "durationSeconds": 149,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-lq81Z1b2zYM",
+    "type": "video",
+    "title": "소년부 목요철야 특송 입장영상 (26년 1월  1일)",
+    "sourceTitle": "소년부 목요철야 특송 입장영상 (26년 1월  1일) - 검단중앙교회",
+    "date": "2026.01.01",
+    "startDate": "2026-01-01",
+    "publishedDate": "2026-01-12",
+    "cover": "videos/2026/lq81Z1b2zYM.jpg",
+    "youtubeVideoId": "lq81Z1b2zYM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=lq81Z1b2zYM",
+    "durationSeconds": 153,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube--OsgIzWDVJo",
+    "type": "video",
+    "title": "소년부 목요철야 특송 입장영상 (26년 2월  26일)",
+    "sourceTitle": "소년부 목요철야 특송 입장영상 (26년 2월  26일) - 검단중앙교회",
+    "date": "2026.02.26",
+    "startDate": "2026-02-26",
+    "publishedDate": "2026-02-27",
+    "cover": "videos/2026/-OsgIzWDVJo.jpg",
+    "youtubeVideoId": "-OsgIzWDVJo",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-OsgIzWDVJo",
+    "durationSeconds": 153,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-voZMbdi6BXI",
+    "type": "video",
+    "title": "교회학교 목요철야 특송 입장영상 (26년 3월 12일)",
+    "sourceTitle": "교회학교 목요철야 특송 입장영상 (26년 3월 12일) - 검단중앙교회",
+    "date": "2026.03.12",
+    "startDate": "2026-03-12",
+    "publishedDate": "2026-03-13",
+    "cover": "videos/2026/voZMbdi6BXI.jpg",
+    "youtubeVideoId": "voZMbdi6BXI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=voZMbdi6BXI",
+    "durationSeconds": 134,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-TI2Fw982FCY",
+    "type": "video",
+    "title": "주일학교 연합성가대 특송 입장영상 (26년 4월 5일)",
+    "sourceTitle": "주일학교 연합성가대 특송 입장영상 (26년 4월 5일) - 검단중앙교회",
+    "date": "2026.04.05",
+    "startDate": "2026-04-05",
+    "publishedDate": "2026-04-27",
+    "cover": "videos/2026/TI2Fw982FCY.jpg",
+    "youtubeVideoId": "TI2Fw982FCY",
+    "youtubeUrl": "https://www.youtube.com/watch?v=TI2Fw982FCY",
+    "durationSeconds": 95,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-WieV-zhVt0w",
+    "type": "video",
+    "title": "소년부 목요철야 특송 입장영상 (26년 5월 21일)",
+    "sourceTitle": "소년부 목요철야 특송 입장영상 (26년 5월 21일) - 검단중앙교회",
+    "date": "2026.05.21",
+    "startDate": "2026-05-21",
+    "publishedDate": "2026-05-22",
+    "cover": "videos/2026/WieV-zhVt0w.jpg",
+    "youtubeVideoId": "WieV-zhVt0w",
+    "youtubeUrl": "https://www.youtube.com/watch?v=WieV-zhVt0w",
+    "durationSeconds": 158,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-EeXFXqJ8ngM",
+    "type": "video",
+    "title": "여름성경학교 영짱 목요철야 특송 입장영상 (26년 7월 23일)",
+    "sourceTitle": "여름성경학교 영짱 목요철야 특송 입장영상 (26년 7월 23일) - 검단중앙교회",
+    "date": "2026.07.23",
+    "startDate": "2026-07-23",
+    "publishedDate": "2026-07-23",
+    "cover": "videos/2026/EeXFXqJ8ngM.jpg",
+    "youtubeVideoId": "EeXFXqJ8ngM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EeXFXqJ8ngM",
+    "durationSeconds": 216,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-uctc3hdU_Gc",
+    "type": "video",
+    "title": "2026년 4월 26일 말씀챈트",
+    "sourceTitle": "2026년 4월 26일 말씀챈트 - 빌립보서 3장 14절",
+    "date": "2026.04.26",
+    "startDate": "2026-04-26",
+    "publishedDate": "2026-05-03",
+    "cover": "videos/2026/uctc3hdU_Gc.jpg",
+    "youtubeVideoId": "uctc3hdU_Gc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=uctc3hdU_Gc",
+    "durationSeconds": 150,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-BvwiK77pMRQ",
+    "type": "video",
+    "title": "2026년 5월 3일 말씀챈트",
+    "sourceTitle": "2026년 5월 3일 말씀챈트 - 출애굽기 3장 5절",
+    "date": "2026.05.03",
+    "startDate": "2026-05-03",
+    "publishedDate": "2026-05-03",
+    "cover": "videos/2026/BvwiK77pMRQ.jpg",
+    "youtubeVideoId": "BvwiK77pMRQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=BvwiK77pMRQ",
+    "durationSeconds": 166,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-DfeaQlAaTH4",
+    "type": "video",
+    "title": "아름다운 마음들이 모여서",
+    "sourceTitle": "아름다운 마음들이 모여서 - 검단중앙교회 어버이주일 3부 연합예배",
+    "date": "2026.05.10",
+    "startDate": "2026-05-10",
+    "publishedDate": "2026-05-11",
+    "cover": "videos/2026/DfeaQlAaTH4.jpg",
+    "youtubeVideoId": "DfeaQlAaTH4",
+    "youtubeUrl": "https://www.youtube.com/watch?v=DfeaQlAaTH4",
+    "durationSeconds": 190,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-P2ACiSr64Ls",
+    "type": "video",
+    "title": "교회",
+    "sourceTitle": "교회 - 검단중앙교회 창립 38주년 감사 음악회",
+    "date": "2026.04.05",
+    "startDate": "2026-04-05",
+    "publishedDate": "2026-04-06",
+    "cover": "videos/2026/P2ACiSr64Ls.jpg",
+    "youtubeVideoId": "P2ACiSr64Ls",
+    "youtubeUrl": "https://www.youtube.com/watch?v=P2ACiSr64Ls",
+    "durationSeconds": 242,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-RG3Y8Jf7pdo",
+    "type": "video",
+    "title": "하나님의 능력 알고 있니?",
+    "sourceTitle": "하나님의 능력 알고 있니? - 검단중앙교회 창립 38주년 감사 음악회",
+    "date": "2026.04.05",
+    "startDate": "2026-04-05",
+    "publishedDate": "2026-04-06",
+    "cover": "videos/2026/RG3Y8Jf7pdo.jpg",
+    "youtubeVideoId": "RG3Y8Jf7pdo",
+    "youtubeUrl": "https://www.youtube.com/watch?v=RG3Y8Jf7pdo",
+    "durationSeconds": 290,
+    "sites": [
+      "juniors"
+    ]
+  }
+]
