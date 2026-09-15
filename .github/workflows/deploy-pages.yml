@@ -26,8 +26,8 @@ jobs:
       - name: Prepare site
         run: |
           mkdir _site
-          cp albums.json church-categories.json church-index.json juniors-categories.json juniors-index.json _site/
-          cp -R covers icons profile og _site/
+          cp albums.json church-categories.json church-index.json juniors-categories.json juniors-index.json juniors-video-categories.json videos.json _site/
+          cp -R covers icons profile og videos _site/
           cp -R gallery _site/
           python3 scripts/build-gallery.py --output _site/gallery-index.json
       - name: Configure Pages
