@@ -558,5 +558,21 @@
     "sites": [
       "juniors"
     ]
+  },
+  {
+    "id": "youtube-ipuu0IsXCEA",
+    "type": "video",
+    "title": "2026년 9월 20일 말씀챈트",
+    "sourceTitle": "2026년 9월 20일 말씀챈트 - 요한일서 5장 4절",
+    "date": "2026.09.20",
+    "startDate": "2026-09-20",
+    "publishedDate": "2026-09-22",
+    "cover": "videos/2026/ipuu0IsXCEA.jpg",
+    "youtubeVideoId": "ipuu0IsXCEA",
+    "youtubeUrl": "https://www.youtube.com/watch?v=ipuu0IsXCEA",
+    "durationSeconds": 141,
+    "sites": [
+      "juniors"
+    ]
   }
 ]
