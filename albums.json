@@ -11,6 +11,17 @@
     "place": null
   },
   {
+    "id": "20261015-01",
+    "title": "20261015 소년부 목요철야 특송",
+    "date": "2026.10.15",
+    "startDate": "2026-10-15",
+    "cover": "covers/2026/20261015-01.jpg",
+    "googlePhotosUrl": "https://photos.app.goo.gl/F3YZQj7WAh96wrje6",
+    "photoCount": 56,
+    "sites": ["church", "juniors"],
+    "place": null
+  },
+  {
     "id": "20261011-01",
     "title": "20261011 소년부 예배",
     "date": "2026.10.11",
