@@ -574,5 +574,69 @@
     "sites": [
       "juniors"
     ]
+  },
+  {
+    "id": "youtube-G14afN0LXfE",
+    "type": "video",
+    "title": "내 영혼에 햇빛 비치니",
+    "sourceTitle": "내 영혼에 햇빛 비치니 - 주사랑 성가대 검단중앙교회 소년부",
+    "date": "2026.10.11",
+    "startDate": "2026-10-11",
+    "publishedDate": "2026-10-19",
+    "cover": "videos/2026/G14afN0LXfE.jpg",
+    "youtubeVideoId": "G14afN0LXfE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=G14afN0LXfE",
+    "durationSeconds": 171,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-wdPWUfa8iWc",
+    "type": "video",
+    "title": "예수님처럼 선택해요",
+    "sourceTitle": "예수님처럼 선택해요 - 검단중앙교회 목요철야 소년부 특송 (2026년 10월 15일)",
+    "date": "2026.10.15",
+    "startDate": "2026-10-15",
+    "publishedDate": "2026-10-19",
+    "cover": "videos/2026/wdPWUfa8iWc.jpg",
+    "youtubeVideoId": "wdPWUfa8iWc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wdPWUfa8iWc",
+    "durationSeconds": 204,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-bahIT2pty84",
+    "type": "video",
+    "title": "소년부 목요철야 특송 입장영상 (26년 10월 15일)",
+    "sourceTitle": "소년부 목요철야 특송 입장영상 (26년 10월 15일) - 검단중앙교회",
+    "date": "2026.10.15",
+    "startDate": "2026-10-15",
+    "publishedDate": "2026-10-19",
+    "cover": "videos/2026/bahIT2pty84.jpg",
+    "youtubeVideoId": "bahIT2pty84",
+    "youtubeUrl": "https://www.youtube.com/watch?v=bahIT2pty84",
+    "durationSeconds": 119,
+    "sites": [
+      "juniors"
+    ]
+  },
+  {
+    "id": "youtube-IU01CKt0FgI",
+    "type": "video",
+    "title": "소년부 요리대회",
+    "sourceTitle": "소년부 요리대회 - K푸드 파이터, 요리 최강자를 가려라!",
+    "date": "2026.10.18",
+    "startDate": "2026-10-18",
+    "publishedDate": "2026-10-20",
+    "cover": "videos/2026/IU01CKt0FgI.jpg",
+    "youtubeVideoId": "IU01CKt0FgI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=IU01CKt0FgI",
+    "durationSeconds": 228,
+    "sites": [
+      "juniors"
+    ]
   }
 ]

@@ -24,6 +24,11 @@
       "id": "chant",
       "name": "챈트",
       "order": 5
+    },
+    {
+      "id": "event",
+      "name": "행사",
+      "order": 6
     }
   ]
 }
