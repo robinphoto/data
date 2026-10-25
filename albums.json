@@ -1,5 +1,16 @@
 [
   {
+    "id": "20261025-01",
+    "title": "20261025 소년부 예배",
+    "date": "2026.10.25",
+    "startDate": "2026-10-25",
+    "cover": "covers/2026/20261025-01.jpg",
+    "googlePhotosUrl": "https://photos.app.goo.gl/QYZbgF9N5LLiiyaL8",
+    "photoCount": 76,
+    "sites": ["church", "juniors"],
+    "place": null
+  },
+  {
     "id": "20261018-01",
     "title": "20261018 소년부 예배",
     "date": "2026.10.18",
